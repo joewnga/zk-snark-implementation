@@ -1,0 +1,13 @@
+[package]
+name = "zk-snark-implementation"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ark-groth16 = "0.4"
+ark-std = "0.4"
+ark-ff = "0.4"
+ark-ec = "0.4"
+ark-relations = "0.4"
+ark-r1cs-std = "0.4"
+ark-snark = "0.4"
